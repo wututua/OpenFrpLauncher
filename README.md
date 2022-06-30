@@ -1,2 +1,2 @@
 # OpenFrpLauncher
-fuckyou
+## fuckyou
